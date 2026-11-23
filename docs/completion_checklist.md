@@ -28,9 +28,9 @@
 ## Task 5: Documentation
 - [x] Created README.md
 - [x] Organised project directories
-- [ ] Added screenshots
-- [ ] Uploaded project to GitHub
+- [x] Added screenshots
+- [x] Uploaded project to GitHub
 
 ## Final Status
 Core Bash scripts tested successfully.
-GitHub submission pending.
+GitHub submission completed.
